@@ -8,6 +8,9 @@ To  deploy application locally:
 * `npm start` to start application locally
 * `npm test` to run test
 
+Also application is deployed on heroku: https://getir-solution.herokuapp.com/
+
+Example of json query to https://getir-solution.herokuapp.com/ :
 
 ` {"startDate": "2016-01-26", 
       "endDate": "2018-02-02", 
