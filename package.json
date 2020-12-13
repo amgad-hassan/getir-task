@@ -1,0 +1,23 @@
+{
+  "name": "getir_task",
+  "version": "1.0.0",
+  "description": "getir_task",
+  "main": "application.js",
+  "scripts": {
+    "test": "jest --detectOpenHandles",
+    "start": "node application.js"
+  },
+  "author": "Amgad Hassan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.6.0",
+    "moment": "^2.27.0",
+    "mongoose": "^5.9.22",
+    "supertest": "^4.0.2"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
